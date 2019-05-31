@@ -264,9 +264,14 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+
+- Code reviews should primarily be for the coder's growth. Mistakes are always good to spot, but I think that suggestions and hints to improve the coder's code would be extremely valuable. The review should judge the quality of the code but also to help the coder. Besides quality, important factors are pep8 adherance, code legibility, and code efficiency. 
+
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+
+- Containers provide a standard that is easily reproducible for any user. It's like an unlimited number of rooms that are all sterile and all have exactly the same tools so that I can perform the same experiments in each room. I can be confident that each experiment will get the same results within margin of error if I am sticking to the science experiment example. For a container, it will always be the same result. All of this lets employers like ACME be confident that they can get reliable and marketable products.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
